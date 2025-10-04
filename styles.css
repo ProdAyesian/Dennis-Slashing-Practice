@@ -18,6 +18,7 @@ main {
     max-width: 800px;
     margin: 0 auto;
 }
+<<<<<<< Updated upstream
 nav ul {
     list-style: none;
     padding: 0;
@@ -28,3 +29,5 @@ nav ul {
 nav li {
     margin: 0 15px;
 }
+=======
+>>>>>>> Stashed changes
